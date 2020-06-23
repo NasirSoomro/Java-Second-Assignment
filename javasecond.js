@@ -415,6 +415,34 @@
 // ===============Chapter # 35 to 38 Date Methods 
 //  Task # 4
 
+// function calculator(num1,operator,num2){
+//   if(operator === "+"){
+//     return num1 + num2
+//   }
+//   else if(operator === "-"){
+//     return num1-num2
+//   }
+//   else if(operator === "*"){
+//     return num1*num2
+//   }
+
+// else if(operator === "/"){
+//   return num1/num2
+// }
+// }
+// var conclusion = calculator(10,"+",6)
+// var conclusion1 = calculator(10,"-",6)
+// var conclusion2 = calculator(10,"*",6)
+// var conclusion3 = calculator(10,"/",6)
+// console.log(conclusion)
+// console.log(conclusion1)
+// console.log(conclusion2)
+// console.log(conclusion3)
+
+
+// ===============Chapter # 35 to 38 Date Methods 
+//  Task # 5
+
 
 //  var num1 =+ prompt("Enter a Number");
  
@@ -425,4 +453,67 @@
 
 
 // ===============Chapter # 35 to 38 Date Methods 
-//  Task # 5
+//  Task # 6
+
+
+
+//  var base = +prompt();
+//  var perp = +prompt();
+//  function data(){
+//   a= base*base;
+//   b= perp*perp;
+//   c= a+b;
+//  }
+//  data();
+//  var concl = c 
+//  console.log (a,b) 
+//  console.log( "Hypotinuse = " +concl)
+ 
+
+
+
+// ===============Chapter # 35 to 38 Date Methods 
+//  Task # 9
+
+
+//  var width = +prompt();
+//  var height = +prompt();
+//  function data(){
+//   a= width*height;
+  
+   
+//  }
+//  data();
+//  console.log ("Area = " + width + "*" + height) 
+//  document.write( "Area = " +a + "m<sup>2</sup>")
+ 
+// ===============Chapter # 35 to 38 Date Methods 
+//  Task # 10
+
+// var word = prompt();
+// var chech = "";
+// function check(){
+
+// }
+
+// ===============Chapter # 35 to 38 Date Methods 
+//  Task # 11
+
+// function chek(){
+// var a = prompt();
+// var b = a.slice(0,1)
+// var c = b.toUpperCase();
+// var d = a.slice(1)
+// var e = d.toLowerCase();
+//   f = c+e;
+// }
+// chek();
+// console.log(f)
+
+
+// ===============Chapter # 35 to 38 Date Methods 
+//  Task # 12,13,14
+
+
+
+// sory i can not undersatand the mentioned tasks
